@@ -1,14 +1,12 @@
 int d_time = 1000;
 
 void setup() {
-  // put your setup code here, to run once:
-  pinMode(7, OUTPUT);
+  pinMode(LED_BUILTIN, OUTPUT);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-  digitalWrite(7, HIGH);
+  digitalWrite(LED_BUILTIN, HIGH);
   delay(d_time);
-  digitalWrite(7, LOW);
+  digitalWrite(LED_BUILTIN, LOW);
   delay(d_time);
 }
