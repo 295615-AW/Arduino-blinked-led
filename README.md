@@ -1,5 +1,5 @@
 # Arduino-blinked-led
-Prosty projekt z Arduino, dioda miga w odstępie 1 sekundy.
+Prosty projekt z Arduino, dioda miga w odstępie 1 sekundy.\n
 Mój pierwszy projekt, w którym nauczyłam się podstaw pracy z Arduino, Gitem oraz GitHubem.
 
 ## Demo
